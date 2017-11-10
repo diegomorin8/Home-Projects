@@ -6,4 +6,8 @@ Both the electronics and structural designed were designed and built from scratc
 
 The structure was designed using SolidEdge and printed in my home-made 3D printer.
 
-![Conjunto](Figures/conjunto.png)
+![Conjunto](Figures/Conjunto.png)
+
+Here is a video of them: 
+
+![Youtube_video](https://youtu.be/YvSskIugZ70)
