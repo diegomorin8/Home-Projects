@@ -8,7 +8,7 @@ Home-made DIY projects
 
 ## Diego's 3D
 
-![Printer](Diego's 3D/Figures/3ddiego.jpg)
+![Printer](https://github.com/diegomorin8/Home-Projects/blob/master/Diego's%203D/Figures/3ddiego.jpg)
 
 
 
