@@ -4,7 +4,7 @@ Home-made DIY projects
 
 ## Water Pump Speakers
 
-![Conjunto](Water Pump Speakers/Figures/Conjunto.png)
+![Conjunto](https://github.com/diegomorin8/Home-Projects/blob/master/Water%20Pump%20Speakers/Figures/Conjunto.png)
 
 ## Diego's 3D
 
